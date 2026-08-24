@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Mario Andres Castro Morelo - JavaScript Developer in Training" width="100%">
+<img src="./assets/banner.jpeg" alt="Mario Andres Castro Morelo - JavaScript Developer in Training" width="100%">
 
 # 👋 Hi, I'm Mario Andres Castro Morelo
 
